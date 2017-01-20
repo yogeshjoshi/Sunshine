@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="refresh">Refresh</string>
+    <string name="error_message">Error Has Occurred</string>
+</resources>
